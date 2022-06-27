@@ -1,0 +1,9 @@
+bb9c28ba54179b1dbd4b2fa8f2331468 *DESCRIPTION
+d498f414fd301576c610364dde261dbb *NAMESPACE
+1cd09418ae45393220ca855575ce450f *R/compound_search.R
+750f14b7f32e60dfb35c22f1d0a2c2c5 *R/gene_search.R
+f8feeb6a5f1e694aefcf2d35cc3812ea *R/protein_search.R
+7ac844367967f817a71d0977a9691c6c *R/zzz.R
+b1fdfef1af9e991cef7c9d6c67c63478 *man/compound_search.Rd
+cffd8b4ab4861a10095ab7a9021217fe *man/gene_search.Rd
+f7f6dd5cce62edaf9d11530cbcc29b1c *man/protein_search.Rd
